@@ -1,6 +1,7 @@
 # Branch-and-bound
 Learning Optimal Decision Trees Using Caching Branch-and-Bound Search. An article written in Latex.
-#Abstract
+
+# Abstract
 Several recent publications have studied the use of Mixed
 Integer Programming (MIP) for finding an optimal decision
 tree, that is, the best decision tree under formal require-
